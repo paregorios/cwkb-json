@@ -2,6 +2,10 @@
 
 This dataset includes all authors and works identified in the [Linked Data release (large RDF/XML file)](http://cwkb.org/allrecords/rdf) of the [Classical Works Knowledge Base (CWKB)](http://www.cwkb.org/), arranged hierarchically into a list of authors, each with a subordinate "works" list, all serialized into JavaScript Object Notation (JSON) format.
 
+And if you're interested in this, you might also be interested in Stephen Margheim's [Classical Studies Resources](https://github.com/fractaledmind/Classical-Studies-Resources).
+
+## What's Here?
+
 Here's a snippet of the content, formatted to show the general structure (NB ellipses):
 
 ```json
