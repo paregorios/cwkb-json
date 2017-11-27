@@ -91,5 +91,9 @@ The CWKB makes no explicit claim of copyright to the CWKB, but it does post [a b
 
 Please see ```UNLICENSE.rdf2json.xsl.txt```. 
 
+## Problems and Suggestions
+
+You're welcome to open a ticket on [the issue tracker](https://github.com/paregorios/cwkb-json/issues), but what I really love are pull requests.
+
 
 
