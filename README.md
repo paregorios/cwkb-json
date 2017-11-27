@@ -1,6 +1,6 @@
 # Classical Works Knowledge Base in JSON
 
-This dataset includes all authors and works identified in the [Linked Data release (large RDF/XML file)])http://cwkb.org/allrecords/rdf) of the [Classical Works Knowledge Base (CWKB)](http://www.cwkb.org/), arranged hierarchically into a list of authors, each with a subordinate "works" list, all serialized into JavaScript Object Notation (JSON) format.
+This dataset includes all authors and works identified in the [Linked Data release (large RDF/XML file)](http://cwkb.org/allrecords/rdf) of the [Classical Works Knowledge Base (CWKB)](http://www.cwkb.org/), arranged hierarchically into a list of authors, each with a subordinate "works" list, all serialized into JavaScript Object Notation (JSON) format.
 
 Here's a snippet of the content, formatted to show the general structure (NB ellipses):
 
