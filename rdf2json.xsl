@@ -11,6 +11,12 @@
     exclude-result-prefixes="#all"
     version="3.0">
     
+    <!-- rdf2json.xsl
+          a bespoke XSLT for converting the Classical Works Knowledge Base RDF/XML into JSON
+          author: Tom Elliott (http://www.paregorios.org/)
+          copyright and license: public domain (see UNLICENSE.rdf2json.xsl.txt)
+          -->
+    
     <xsl:output encoding="UTF-8" byte-order-mark="no"  method="text" indent="yes" media-type="text/json" omit-xml-declaration="yes"/>
     
     <xsl:template match="/">
